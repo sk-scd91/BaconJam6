@@ -1,4 +1,6 @@
 BaconJam6
 =========
 
-A game that matches the theme: Rainbows
+Would have been a game that matches the theme: Rainbows
+
+I didn't have enough time to finish though.
