@@ -12,6 +12,9 @@ public class SphereController : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+				
+		// Spin around the player for now.
+		transform.RotateAround(Vector3.zero, Vector3.up, 40f * Time.deltaTime);
 	
 	}
 	
